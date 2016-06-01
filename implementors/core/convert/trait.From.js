@@ -1,0 +1,10 @@
+(function() {var implementors = {};
+implementors['ethabi'] = ["impl <a class='trait' href='https://doc.rust-lang.org/nightly/core/convert/trait.From.html' title='core::convert::From'>From</a>&lt;SerdeError&gt; for <a class='enum' href='ethabi/spec/enum.Error.html' title='ethabi::spec::Error'>Error</a>","impl <a class='trait' href='https://doc.rust-lang.org/nightly/core/convert/trait.From.html' title='core::convert::From'>From</a>&lt;<a class='struct' href='https://doc.rust-lang.org/nightly/core/num/struct.ParseIntError.html' title='core::num::ParseIntError'>ParseIntError</a>&gt; for <a class='enum' href='ethabi/spec/param_type/enum.Error.html' title='ethabi::spec::param_type::Error'>Error</a>","impl <a class='trait' href='https://doc.rust-lang.org/nightly/core/convert/trait.From.html' title='core::convert::From'>From</a>&lt;<a class='enum' href='https://doc.rust-lang.org/rustc-serialize/rustc_serialize/hex/enum.FromHexError.html' title='rustc_serialize::hex::FromHexError'>FromHexError</a>&gt; for <a class='enum' href='ethabi/token/enum.Error.html' title='ethabi::token::Error'>Error</a>","impl <a class='trait' href='https://doc.rust-lang.org/nightly/core/convert/trait.From.html' title='core::convert::From'>From</a>&lt;<a class='struct' href='https://doc.rust-lang.org/nightly/core/num/struct.ParseIntError.html' title='core::num::ParseIntError'>ParseIntError</a>&gt; for <a class='enum' href='ethabi/token/enum.Error.html' title='ethabi::token::Error'>Error</a>","impl <a class='trait' href='https://doc.rust-lang.org/nightly/core/convert/trait.From.html' title='core::convert::From'>From</a>&lt;<a class='struct' href='https://doc.rust-lang.org/nightly/collections/string/struct.FromUtf8Error.html' title='collections::string::FromUtf8Error'>FromUtf8Error</a>&gt; for <a class='enum' href='ethabi/enum.Error.html' title='ethabi::Error'>Error</a>",];
+
+            if (window.register_implementors) {
+                window.register_implementors(implementors);
+            } else {
+                window.pending_implementors = implementors;
+            }
+        
+})()

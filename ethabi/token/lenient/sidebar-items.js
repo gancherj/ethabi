@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["LenientTokenizer","Tries to parse string as a token. Does not require string to clearly represent the value."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Contract","API building calls to contracts ABI."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EventParam","Event param specification."]]});

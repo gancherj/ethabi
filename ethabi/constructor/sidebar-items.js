@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Constructor","Contract constructor call builder."]]});

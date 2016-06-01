@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Interface","Contract interface."]]});

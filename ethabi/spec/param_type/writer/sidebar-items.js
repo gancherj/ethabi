@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Writer","Output formatter for param type."]]});
